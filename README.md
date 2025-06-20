@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=clarenceG01&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 # Hi there 👋 I'm Clarence
 
 🎨 I'm a **Frontend Developer** who loves crafting interactive and visually engaging web experiences.
