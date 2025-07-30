@@ -47,9 +47,6 @@
 | **Flashcards App** | React, TypeScript, Zustand | [View Project](https://github.com/yourusername/flashcards) |
 | **UI Clone: Apple.com** | HTML, CSS, JS | [View Live](https://apple-clone-demo.vercel.app) |
 -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bvjfkizhjqse0e0stc5jaf5f3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
 
 ## 📬 Let's Connect!
 
