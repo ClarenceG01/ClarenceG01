@@ -5,7 +5,7 @@
 
 # Hi there 👋 I'm Clarence
 
-🎨 I'm a **Frontend Developer** who loves crafting interactive and visually engaging web experiences.
+🎨 I'm a **Software Developer** who loves crafting interactive and visually engaging web experiences.
 
 - 🌱 Currently learning: **DSA**,**React Native**,**UI/UX principles**
 - 🛠️ Working with: **React**,**Next.js 15**, **Tailwind CSS**, **TypeScript**, **Framer Motion**
